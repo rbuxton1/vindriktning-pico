@@ -1,6 +1,6 @@
 # Vindriktning Pico
 
-Basically I saw these IKEA Vindriktning air sensors for $7 and immediately checked if others have already hacked them. Thankfully they had so I bought three and got to work! This repository has all of the code and wiring information, but to get the slick case you will need to visit my Printables page.
+Basically I saw these IKEA Vindriktning air sensors for $7 and immediately checked if others have already hacked them. Thankfully they had so I bought three and got to work! This repository has all of the code and wiring information, but to get the slick case you will need to visit [my Printables page](https://www.printables.com/model/1306523-vindriktning-pi-pico-enclosure).
 
 ## Wiring
 

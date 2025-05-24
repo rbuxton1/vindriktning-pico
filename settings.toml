@@ -1,0 +1,7 @@
+CIRCUITPY_WIFI_SSID = "YourWiFi"
+CIRCUITPY_WIFI_PASSWORD = "YourWiFiPassword"
+mqtt_host = "your.mqtt.host.ip"
+mqtt_username = "mqttUser"
+mqtt_password = "mqttPassword"
+mqtt_delay = "15"
+name="vindriktning"
